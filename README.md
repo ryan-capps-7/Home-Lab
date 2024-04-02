@@ -8,7 +8,8 @@
 
 <h2> Certifications:</h2>
 
-[CompTIA A+](http://verify.comptia.org)
+[CompTIA A+](http://verify.comptia.org)<br>
+
 <p1> Credential ID: N7BXD7J6LJ111DSJ <p1>
 
 
