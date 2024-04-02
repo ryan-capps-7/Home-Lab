@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>Cloud Computing Projects:</h2>
 
@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-[How I Configured my Ubuntu Server](https://www.youtube.com/watch?v=a83ASGn_V_s)
+[CompTIA A+](http://verify.comptia.org)
 
 <h2>📺 Popular YouTube Videos</h2>
 
