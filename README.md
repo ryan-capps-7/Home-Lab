@@ -1,13 +1,14 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-capps-7">Student</a>
 
 <h2>Cloud Computing Projects:</h2>
 
 
 [Ubuntu Server Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifications</h2>
+<h2> Certifications:</h2>
 
 [CompTIA A+](http://verify.comptia.org)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
