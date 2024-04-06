@@ -4,7 +4,7 @@
 <h2>Cloud Computing Projects:</h2>
 
 
-[Ubuntu Server Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+[Ubuntu Server Home Lab]()
 
 <h2> Certifications:</h2>
 
