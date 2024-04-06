@@ -1,8 +1,7 @@
 
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-capps-7">Student</a>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-capps-7"> A Cloud Student @ WGU</a>
 
 <h2>Cloud Computing Projects:</h2>
-
 
 [Ubuntu Server Home Lab]()
 
@@ -15,7 +14,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-[How I Configured my Ubuntu Server](https://www.youtube.com/watch?v=a83ASGn_V_s)
+[How I Configured my Ubuntu Server]()
 
 <h2> 🤳 Connect with me:</h2>
 
