@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-capps-7"> A Cloud Student @ WGU</a>
 
-<h2>Cloud Computing Projects:</h2>
+<h2>Passion Projects:</h2>
 
 [Ubuntu Server Home Lab]()
 
