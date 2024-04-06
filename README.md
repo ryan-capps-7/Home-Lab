@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-capps-7"> A Cloud Student @ WGU</a>
 
-<h2>Passion Projects:</h2>
+<h2> Passion Projects:</h2>
 
 [Ubuntu Server Home Lab](https://github.com/ryan-capps-7/Ubuntu-Server) <br>
 [ACG Azure Resume Challenge](https://github.com/ryan-capps-7/azure-resume)
@@ -13,7 +13,7 @@
 <p1> Credential ID: N7BXD7J6LJ111DSJ <p1>
 
 
-<h2>📺 Vlogumentation</h2>
+<h2>📺 Vlogumentation:</h2>
 
 [How I Configured my Ubuntu Server]()
 
