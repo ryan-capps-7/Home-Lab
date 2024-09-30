@@ -10,7 +10,11 @@
 
 [CompTIA A+](http://verify.comptia.org)<br>
 
-<p1> Credential ID: N7BXD7J6LJ111DSJ <p1>
+<p1> Code: N7BXD7J6LJ111DSJ <p1>
+
+[CompTIA Network+](http://verify.comptia.org)<br>
+
+<p1> Code: E0JRQZ0ZNE4EQR3D <p1>
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -20,8 +24,6 @@
 [linkedin]: https://linkedin.com/in/ryan-capps
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
