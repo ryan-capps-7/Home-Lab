@@ -3,7 +3,7 @@
 
 <h2> Passion Projects:</h2>
 
-[Ubuntu Server Home Lab](https://github.com/ryan-capps-7/Ubuntu-Server) <br>
+[Active Directory Home Lab](https://github.com/ryan-capps-7/) <br>
 <!--[ACG Azure Resume Challenge](https://github.com/ryan-capps-7/azure-resume)-->
 
 <h2> Certifications:</h2>
